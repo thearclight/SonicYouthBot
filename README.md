@@ -1,6 +1,7 @@
 # SonicYouthBot
-SonicYouthBot (@malibu_gas)
-
+<br>
+<br> <
+SonicYouthBot (@malibu_gas) <br>
 Sonic Youth was an influential experimental rock band formed in New York City in 1981. Known for their anthems, distortion, and cryptic lyrics, Sonic Youth's message remains as fresh as it was 30 years ago. This Twitterbot takes lyrics from Sonic Youth's 15 album discography and shakes it up a bit, creating something new out of the familiar. 
 
 Sonic.Nurse.py <br> 
